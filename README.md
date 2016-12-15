@@ -12,6 +12,7 @@ Also see NYT's [_Harvesting Government History, One Web Page At A Time_](http://
 
 This was in preparation for [Guerrilla Archiving: Saving Environmental Data from Trump](https://www.facebook.com/events/1828129627464671/) hosted at the University of Toronto on Dec 17, 2016.
 
-TODO
-- Need a public Google Forms owned by Civic Tech Toronto or ETPH
-- Should be a form asking for name & event for the first time, remembers it through cookies, and does the default behaviour of the current bookmarklet afterwards.
+## Installation instructions
+
+1.	Download or Clone this repo: https://github.com/mi-lee/presidential-harvest-nomination-tool
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/gitclone.png" align="middle")/>
