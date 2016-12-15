@@ -12,6 +12,8 @@ Also see NYT's [_Harvesting Government History, One Web Page At A Time_](http://
 
 This was in preparation for [Guerrilla Archiving: Saving Environmental Data from Trump](https://www.facebook.com/events/1828129627464671/) hosted at the University of Toronto on Dec 17, 2016.
 
+This Chrome Extension is used for keeping track of what everyone is working on, once clicked the extension will record what URL you have just submitted for nomination.
+
 ## Install Bookmarklet
 Follow instructions from [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/) to add the Nomination Tool bookmarklet to your Chrome browser.
 
