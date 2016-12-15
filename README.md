@@ -14,8 +14,6 @@ This was in preparation for [Guerrilla Archiving: Saving Environmental Data from
 
 This Chrome Extension is used for keeping track of what everyone is working on, once clicked the extension will record what URL you have just submitted for nomination.
 
-## Install Bookmarklet
-Follow instructions from [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/) to add the Nomination Tool bookmarklet to your Chrome browser.
 
 ## Chrome Extension installation instructions
 
@@ -31,15 +29,12 @@ Follow instructions from [End of Term Presidental Harvest 2016](http://digital2.
 4. Extension should appear now
 <img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/postinstallExtension.png" width="700" align="middle"/>
 
-5. Go to the URL that your wish to nominate, then click the eth2016 nominator bookmark
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/nominationToolUNT.png" width="700" align="middle"/>
-
-6. Then click the nomination tool extension you just installed (for first time use, you will be prompted to enter your name and the name of the event you are using this tool for)
+5. Go to the URL that your wish to nominate, then click the extension(for first time use, you will be prompted to enter your name and the name of the event you are using this tool for)
 <img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/nominationExtension.png" width="700" align="middle"/>
 
-7. Submit the URL for nomination in the unt web app by click 'Add A URL' button
+6. Submit the URL for nomination in the unt web app by click 'Add A URL' button
 <img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/AddAURL.png" width="700" align="middle"/>
 
-8. Move on to the next URL and repeat steps 5-7
+7. Move on to the next URL and repeat steps 5 and 6
 
 Happy Archiving!!!
