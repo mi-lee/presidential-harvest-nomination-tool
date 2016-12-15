@@ -15,7 +15,7 @@ This was in preparation for [Guerrilla Archiving: Saving Environmental Data from
 ## Install Bookmarklet
 Follow instructions from [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/) to add the Nomination Tool bookmarklet to your Chrome browser.
 
-## Installation instructions
+## Chrome Extension installation instructions
 
 1.	Download or Clone this repo: https://github.com/mi-lee/presidential-harvest-nomination-tool
 <img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/gitclone.png" width="700" align="middle")/>
