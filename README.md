@@ -15,32 +15,25 @@ This was in preparation for [Guerrilla Archiving: Saving Environmental Data from
 ## Installation instructions
 
 1.	Download or Clone this repo: https://github.com/mi-lee/presidential-harvest-nomination-tool
-
 <img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/gitclone.png" width="700" align="middle")/>
 
 2. Open Google Chrome -> Settings -> Extensions, then click Load unpacked extension
-
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/loadExtension.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/loadExtension.png" width="700" align="middle"/>
 
 3. Choose the folder containing the extension files, and click select
-
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/selectDirectory.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/selectDirectory.png" width="700" align="middle"/>
 
 4. Extension should appear now
-
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/postinstallExtension.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/postinstallExtension.png" width="700" align="middle"/>
 
 5. Go to the URL that your wish to nominate, then click the eth2016 nominator bookmark
-
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/nominationToolUNT.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/nominationToolUNT.png" width="700" align="middle"/>
 
 6. Then click the nomination tool extension you just installed (for first time use, you will be prompted to enter your name and the name of the event you are using this tool for)
-
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/nominationExtension.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/nominationExtension.png" width="700" align="middle"/>
 
 7. Submit the URL for nomination in the unt web app by click 'Add A URL' button
-
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/AddAURL.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/AddAURL.png" width="700" align="middle"/>
 
 8. Move on to the next URL and repeat steps 5-7
 
