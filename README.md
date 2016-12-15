@@ -1,6 +1,6 @@
 # 2016 Presidental Harvest - Nomination Tool
 
-Nomination tool Chrome Extension for [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/).
+Nomination tool Chrome Bookmarlet for [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/).
 
 > The Library of Congress, California Digital Library, University of North Texas Libraries, Internet Archive, George Washington University Libraries, Stanford University Libraries, and the U.S. Government Publishing Office have joined together for a collaborative project to preserve public United States Government web sites at the end of the current presidential administration ending January 20, 2017. This harvest is intended to document federal agencies' presence on the World Wide Web during the transition of Presidential administrations and to enhance the existing collections of the partner institutions.
 
@@ -11,6 +11,9 @@ Nomination tool Chrome Extension for [End of Term Presidental Harvest 2016](http
 Also see NYT's [_Harvesting Government History, One Web Page At A Time_](http://www.nytimes.com/2016/12/01/nyregion/harvesting-government-history-one-web-page-at-a-time.html).
 
 This was in preparation for [Guerrilla Archiving: Saving Environmental Data from Trump](https://www.facebook.com/events/1828129627464671/) hosted at the University of Toronto on Dec 17, 2016.
+
+## Install Bookmarklet
+Follow instructions from [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/) to add the Nomination Tool bookmarklet to your Chrome browser.
 
 ## Installation instructions
 
