@@ -16,7 +16,7 @@ This was in preparation for [Guerrilla Archiving: Saving Environmental Data from
 
 1.	Download or Clone this repo: https://github.com/mi-lee/presidential-harvest-nomination-tool
 
-<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/gitclone.png" align="middle")/>
+<img src="https://raw.githubusercontent.com/mi-lee/presidential-harvest-nomination-tool/master/docs/img/gitclone.png" width="700" align="middle")/>
 
 2. Open Google Chrome -> Settings -> Extensions, then click Load unpacked extension
 
