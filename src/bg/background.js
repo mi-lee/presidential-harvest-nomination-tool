@@ -3,40 +3,37 @@ var GOOGLE_FORMS_URL = 'https://docs.google.com/forms/d/1kuwxu2lXYSRpkwBj4o9kwjU
 var NAME_FIELD = '&entry.604638068=';
 var EVENTNAME_FIELD = '&entry.1800984457=';
 var URL_FIELD = '&entry.242612017=';
+var NOTIFICATION_TOOL_URL = 'http://digital2.library.unt.edu/nomination/eth2016/url/';
 
-//On click action for Extension
+// On click action for Extension
 chrome.browserAction.onClicked.addListener( function( tab ) {
-  console.log( "tab = ", tab );
   var currentURL = tab.url.replace( 'https://', '' );
+  var localStorage = window.localStorage || {};
 
-  //instantiate locaStorage Variables
-  default_name = localStorage["name"] || 'Enter your name ';
-  default_EventName = localStorage["eventName"] || 'Enter event name';
+  // instantiate locaStorage Variables
+  default_name = localStorage.name || 'Enter your name ';
+  default_EventName = localStorage.eventName || 'Enter event name';
 
-  var notificationToolUrl = 'http://digital2.library.unt.edu/nomination/eth2016/url/';
+  // check if localStorage has name if not prompt
+  if ( !localStorage.name ) {
+    var nameAnswer = prompt( 'Please enter your name', default_name );
+    localStorage.name = nameAnswer;
+  }
 
-  console.log("pressed");
+  // check if localStorage has event anem if not prompt
+  if ( !localStorage.eventName ) {
+    var eventAnswer = prompt( 'Please enter your event name', default_EventName );
+    localStorage.eventName = eventAnswer;
+  }
 
-  //check if localStorage has name if not prompt
-  if(!localStorage["name"]){
-    var nameAnswer = prompt('Please enter your name',default_name);
-    localStorage["name"] = nameAnswer;
-  };
-
-  //check if localStorage has event anem if not prompt
-  if(!localStorage["eventName"]){
-    var eventAnswer = prompt('Please enter your event name', default_EventName);
-    localStorage["eventName"] = eventAnswer;
-  };
   // Do GET call to post to Google Form and open new tab
-  $.get({
-    url: GOOGLE_FORMS_URL + NAME_FIELD + localStorage["name"] + EVENTNAME_FIELD + localStorage["eventName"]
-    + URL_FIELD + currentURL+'&submit=Submit',
-    success: function(res){
-      window.open(notificationToolUrl + currentURL);
+  $.get( {
+    url: GOOGLE_FORMS_URL + NAME_FIELD + localStorage.name + EVENTNAME_FIELD + localStorage.eventName + URL_FIELD + currentURL + '&submit=Submit',
+    success: function( res ) {
+      window.open( NOTIFICATION_TOOL_URL + currentURL );
     },
-    error: function(err){
-      console.error(err);
+    error: function( err ) {
+      console.error( err );
     }
-  });
+  } );
 } );
