@@ -1,4 +1,8 @@
-# 2016 Presidental Harvest - Nomination Tool
+# This tool has been ported over to [Civic Tech Toronto](https://github.com/CivicTechTO/presidential-harvest-nomination-tool) and will no longer be maintained on this repo.
+
+----
+
+## 2016 Presidental Harvest - Nomination Tool
 
 Nomination tool Chrome Bookmarlet for [End of Term Presidental Harvest 2016](http://digital2.library.unt.edu/nomination/eth2016/about/).
 
